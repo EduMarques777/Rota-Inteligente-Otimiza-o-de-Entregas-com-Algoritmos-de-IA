@@ -116,7 +116,7 @@ pip3 install pandas numpy scikit-learn matplotlib
 Para executar a otimização e gerar os arquivos de saída (`outputs/`), execute o script principal:
 
 ```bash
-python3 src/route_optimizer.py
+https://colab.research.google.com/drive/19JZWxUAONOw8YU_j_7A_N75hZQvoXohD?usp=sharing
 ```
 
 O script irá:
