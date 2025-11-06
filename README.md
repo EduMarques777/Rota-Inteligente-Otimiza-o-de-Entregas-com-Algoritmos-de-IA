@@ -46,6 +46,9 @@ O diagrama abaixo ilustra o resultado da otimização para $K=4$ entregadores. A
 
 ![Diagrama de Rotas Otimizadas](outputs/optimized_routes.png)
 
+<img width="671" height="542" alt="image" src="https://github.com/user-attachments/assets/553f2c1f-636c-42a4-a85c-718431c3ddfd" />
+
+
 ## 5. Análise dos Resultados, Eficiência e Limitações
 
 ### Resultados e Eficiência
